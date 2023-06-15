@@ -1,8 +1,8 @@
 # Thiago Pires
 ## Hello! Welcome 😎
 
-⚡ Atualmente sou estudante no curso de Programação Fullstack - Senai/SC - em busca de troca de carreira
- 💻 Sempre em busca de novos conhecimentos e desafios
+⚡ Atualmente sou estudante no curso de Programação Fullstack - Senai/SC - em busca de troca de carreira <br>
+ 💻 Sempre em busca de novos conhecimentos e desafios<br>
  📍 Florianópolis/Brasil
  
  ## Meus contatos:
