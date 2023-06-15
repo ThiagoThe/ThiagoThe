@@ -32,6 +32,6 @@
 </div>
           
           
-![Snake animation](https://github.com/ThiagoThe/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ThiagoThe/ThiagoThe/blob/output/github-contribution-grid-snake.svg)
           
           
